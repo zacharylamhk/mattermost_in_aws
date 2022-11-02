@@ -5,7 +5,7 @@ install mattermost in aws linux
 2. Switch on “Allow HTTPS” and “Allow HTTP”
 4. Launch instance
 5. Connect to the instance
-6. Update AWS linux 
+6. Update AWS linux \n
 	sudo yum update
 7. Install git 
 	sudo yum install -y git
